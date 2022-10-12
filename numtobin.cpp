@@ -9,7 +9,7 @@ int main() {
     b[i]=n%2;
     n=n/2;
   }
-  cout<<" Hasil Binnarya : ";
+  cout<<" Hasil Binnary : ";
   for(i=i-1; i>=0; i--) {
     cout<<b[i];
   }
